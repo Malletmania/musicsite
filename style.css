@@ -14,4 +14,14 @@ h5 {
       text-decoration: honeydew;
   }
 
-  
+.section {
+  font-family: 'Lucida Sans', monaco, monospace;
+  font-size: 115%;
+}
+
+.section-blue {
+  color:teal;
+  background-color: cornsilk;
+  font-size: 30px;
+  line-height: 50px;
+}
